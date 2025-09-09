@@ -1,0 +1,7 @@
+﻿  MovingAverage.cpp
+  Source.cpp
+  wav_lib.cpp
+C:\All Files\Studium\ПОВМС\Source.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\All Files\Studium\ПОВМС\Source.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  ПОВМС.vcxproj -> C:\All Files\Studium\ПОВМС\x64\Debug\Lab1.exe
